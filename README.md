@@ -47,3 +47,6 @@ Si vas a agregar un nombre al archivo `/database/database_ps1.json`, usa el ID *
 
 ---
 *Mantenido con ❤️ por la comunidad de Retro Gaming.*
+
+## 📊 Estadísticas
+(Los números se actualizarán automáticamente aquí)
