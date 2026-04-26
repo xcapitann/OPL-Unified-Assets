@@ -23,8 +23,8 @@ def update_readme(stats):
     for line in lines:
         if "## 📊 Estadísticas" in line:
             new_lines.append(line)
-            new_lines.append(f"\n* **PlayStation 1:** {stats['PS1']} portadas\n")
-            new_lines.append(f"* **PlayStation 2:** {stats['PS2']} portadas\n")
+            new_lines.append(f"\n* **PlayStation 1:** {stats['PS1']} Total de portadas\n")
+            new_lines.append(f"* **PlayStation 2:** {stats['PS2']} Total de portadas\n")
             new_lines.append(f"* **Total:** {stats['PS1'] + stats['PS2']} archivos\n")
             skip = True
         elif skip and line.startswith("##"): # Detener el salto cuando llegue a la siguiente sección
