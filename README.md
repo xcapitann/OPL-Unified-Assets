@@ -2,8 +2,8 @@
 
 ## 📊 Estadísticas
 
-* **PlayStation 1:** 50 portadas
-* **PlayStation 2:** 0 portadas
+* **PlayStation 1:** 50 Total de portadas
+* **PlayStation 2:** 0 Total de portadas
 * **Total:** 50 archivos
 
 ## 📁 Estructura del Repositorio
