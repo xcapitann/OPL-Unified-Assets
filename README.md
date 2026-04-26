@@ -1,6 +1,10 @@
 # 🎮 OPL Unified Assets Cloud
 
-Este repositorio es la base de datos centralizada de portadas y metadatos para el proyecto **OPL Manager Custom**. Aquí almacenamos las imágenes que la aplicación descarga en tiempo real para identificar juegos de PS1 y PS2.
+## 📊 Estadísticas
+
+* **PlayStation 1:** 50 portadas
+* **PlayStation 2:** 0 portadas
+* **Total:** 50 archivos
 
 ## 📁 Estructura del Repositorio
 
@@ -48,5 +52,3 @@ Si vas a agregar un nombre al archivo `/database/database_ps1.json`, usa el ID *
 ---
 *Mantenido con ❤️ por la comunidad de Retro Gaming.*
 
-## 📊 Estadísticas
-(Los números se actualizarán automáticamente aquí)
