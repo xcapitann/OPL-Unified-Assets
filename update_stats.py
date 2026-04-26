@@ -43,7 +43,7 @@ def main():
     
     stats = {
         "PS1": count_files(base_path / "covers" / "DSPS1_2D"),
-        "PS2": count_files(base_path / "covers" / "PS2_2D")
+        "PS2": count_files(base_path / "covers" / "OPL_PS2")
     }
     
     print(f"PS1: {stats['PS1']} | PS2: {stats['PS2']}")
