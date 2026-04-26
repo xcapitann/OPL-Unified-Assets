@@ -2,9 +2,9 @@
 
 ## 📊 Estadísticas
 
-* **PlayStation 1:** 50 Total de portadas
-* **PlayStation 2:** 16 Total de portadas
-* **Total:** 66 archivos
+* **PlayStation 1 (DuckStation):** `49` Juegos únicos
+* **PlayStation 2 (OPL):** `0` Juegos únicos
+* **Total de Títulos:** `49` en la colección
 
 ## 📁 Estructura del Repositorio
 

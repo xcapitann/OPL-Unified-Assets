@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnifiedDatabase>
+   
+   <Game id="CPCS_007.01" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/CPCS_007.01_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/CPCS_007.01_BACK.jpg</Back>
+   </Game>
+   <Game id="ESPM_700.01" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/ESPM_700.01_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/ESPM_700.01_BACK.jpg</Back>
+   </Game>
+   <Game id="ESPM_700.02" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/ESPM_700.02_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/ESPM_700.02_BACK.jpg</Back>
+   </Game>
+   <Game id="ESPM_700.03" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/ESPM_700.03_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/ESPM_700.03_BACK.jpg</Back>
+   </Game>
+   <Game id="LSP20011.001" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/LSP20011.001_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/LSP20011.001_BACK.jpg</Back>
+   </Game>
+   <Game id="LSP20022.001" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/LSP20022.001_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/LSP20022.001_BACK.jpg</Back>
+   </Game>
+   <Game id="LSP20033.001" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/LSP20033.001_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/LSP20033.001_BACK.jpg</Back>
+   </Game>
+   <Game id="NES.EXE" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/NES.EXE_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/NES.EXE_BACK.jpg</Back>
+   </Game>
+   <Game id="PAPX_900.44" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/PAPX_900.44_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/PAPX_900.44_BACK.jpg</Back>
+   </Game>
+   <Game id="PNESX.EXE" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/PNESX.EXE_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/PNESX.EXE_BACK.jpg</Back>
+   </Game>
+   <Game id="PSRM_006781" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/PSRM_006781_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/PSRM_006781_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_940.03" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_940.03_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_940.03_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.02" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.02_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.02_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.03" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.03_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.03_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.08" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.08_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.08_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.10" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.10_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.10_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.50" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.50_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.50_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.52" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.52_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.52_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.54" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.54_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.54_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.56" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.56_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.56_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.63" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.63_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.63_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.64" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.64_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.64_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.65" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.65_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.65_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.67" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.67_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.67_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.70" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.70_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.70_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.71" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.71_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.71_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.72" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.72_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.72_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.73" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.73_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.73_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.74" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.74_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.74_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.80" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.80_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.80_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.81" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.81_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.81_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.82" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.82_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.82_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.83" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.83_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.83_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.87" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.87_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.87_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.88" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.88_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.88_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.93" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.93_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.93_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.94" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.94_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.94_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_941.99" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.99_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_941.99_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.00" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.00_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.00_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.01" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.01_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.01_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.04" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.04_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.04_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.05" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.05_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.05_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.06" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.06_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.06_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.08" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.08_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.08_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.21" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.21_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.21_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.27" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.27_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.27_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.28" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.28_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.28_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.29" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.29_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.29_BACK.jpg</Back>
+   </Game>
+   <Game id="SCUS_942.30" platform="PS1">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.30_COV.jpg</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/DSPS1_2D/SCUS_942.30_BACK.jpg</Back>
+   </Game>
+   
+</UnifiedDatabase>
