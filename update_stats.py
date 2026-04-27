@@ -13,6 +13,7 @@ def get_unique_games(directory):
         return []
     # Solo tomamos los que terminan en _COV.jpg para identificar el juego
     return sorted([f.stem.replace("_COV", "") for f in path.iterdir() if f.name.endswith("_COV.jpg")])
+    return sorted([f.stem.replace("_COV", "") for f in path.iterdir() if f.name.endswith("_COV.png")])
 
 def update_readme_and_xml(ps1_games, ps2_games):
     base_path = Path(__file__).parent.resolve()
@@ -65,8 +66,8 @@ def update_readme_and_xml(ps1_games, ps2_games):
         for g_id in ps2_games:
             folder = "covers/OPL_PS2"
             x.write(f'   <Game id="{g_id}" platform="PS2">\n')
-            x.write(f'      <Front>{raw_url}/{folder}/{g_id}_COV.jpg</Front>\n')
-            x.write(f'      <Back>{raw_url}/{folder}/{g_id}_BACK.jpg</Back>\n')
+            x.write(f'      <Front>{raw_url}/{folder}/{g_id}_COV.png</Front>\n')
+            x.write(f'      <Back>{raw_url}/{folder}/{g_id}_BACK.png</Back>\n')
             x.write(f'      <Disc>{raw_url}/{folder}/{g_id}_ICO.png</Disc>\n')
             x.write(f'   </Game>\n')
             
