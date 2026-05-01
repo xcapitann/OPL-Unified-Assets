@@ -1,0 +1,61 @@
+GUÍA DE EXPANSIÓN Y MANTENIMIENTO (NovaPixel Hub)1. REGLA DE ORO: EL CONTEOEl script update_stats.py solo cuenta un juego si encuentra el archivo de portada principal.Sufijo obligatorio: El nombre del archivo debe terminar en _COV.Extensiones aceptadas: .png, .jpg, .PNG, .JPG.2. PASOS PARA AGREGAR UNA NUEVA CONSOLA (Ejemplo: PSP)Cuando decidas crear la carpeta covers/OPL_PSP, debes actualizar estas 3 secciones en el script:A. Registro de la Carpeta (en main):Añade la línea para que el script escanee la nueva ubicación:psp_ids = get_unique_games(base_path / "covers" / "OPL_PSP")B. Registro en el XML (en update_readme_and_xml):Crea el bloque para que la App de escritorio pueda generar los enlaces de descarga:Pythonfor g_id in psp_ids:
+    folder = "covers/OPL_PSP"
+    x.write(f'   <Game id="{g_id}" platform="PSP">\n')
+    x.write(f'      <Front>{raw_url}/{folder}/{g_id}_COV.png</Front>\n')
+    x.write(f'      <Back>{raw_url}/{folder}/{g_id}_BACK.png</Back>\n')
+    x.write(f'   </Game>\n')
+C. Registro en el README:Para que el contador visual se actualice en 
+
+la portada del repositorio:new_lines.append(f"* PSP: {len(psp_games)} Juegos únicos\n")3. 
+
+FORMATOS SEGÚN PLATAFORMAPara mantener la compatibilidad con los cargadores de juegos 
+
+(OPL, DuckStation, etc.):PS1: Usar siempre .jpg.PS2: Usar siempre .png 
+
+(especialmente para _ICO por la transparencia).4. 
+
+SUFIJOS DE ARCHIVO RECONOCIDOSSufijoFunción_COV
+
+Portada (Esencial para el conteo)_BACKContraportada (Parte de atrás)_ICODisco / Icono_BGFondo de pantalla
+
+Aquí tienes los pasos finales para que todo funcione como un reloj cada vez que agregues contenido:
+
+1. El Flujo de Trabajo Diario
+Cada vez que quieras añadir juegos nuevos, solo debes seguir este orden:
+
+Añadir Archivos: Mete tus nuevas imágenes .png en la carpeta covers/OPL_PS2 (o .jpg en covers/DSPS1_2D).
+
+Ejecutar el Script: Corre el comando python update_stats.py.
+
+Verificar: El script automáticamente:
+
+Contará cuántos juegos tienes ahora (detectando los nuevos .png).
+
+Actualizará la tabla de estadísticas en tu README.md.
+
+Escribirá las nuevas rutas en el database.xml para que tu App las pueda descargar.
+
+2. Cómo agregar nuevas consolas (Carpetas)
+Si en el futuro decides agregar, por ejemplo, PSP, solo tienes que hacer dos pequeños ajustes en el script update_stats.py:
+
+En la función main(), añade la nueva ruta:
+
+Python
+ps2_ids = get_unique_games(base_path / "covers" / "OPL_PS2")
+psp_ids = get_unique_games(base_path / "covers" / "OPL_PSP") # Nueva línea
+En la generación del XML, añade el bloque correspondiente:
+
+Python
+for g_id in psp_ids:
+    folder = "covers/OPL_PSP"
+    x.write(f'   <Game id="{g_id}" platform="PSP">\n')
+    x.write(f'      <Front>{raw_url}/{folder}/{g_id}_COV.png</Front>\n')
+    x.write(f'   </Game>\n')
+3. Recordatorio de los Nombres
+Para que el script no se salte ninguna imagen, recuerda mantener siempre el estándar que definimos en el código:
+
+PS2: ID_COV.png, ID_BACK.png, ID_ICO.png.
+
+PS1: ID_COV.jpg, ID_BACK.jpg.
+
+¡Con esto ya tienes tu repositorio de artes unificado y profesional! 
