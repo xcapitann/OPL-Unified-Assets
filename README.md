@@ -3,8 +3,8 @@
 ## 📊 Estadísticas
 
 * **PlayStation 1 (DuckStation):** `50` Juegos únicos
-* **PlayStation 2 (OPL):** `17` Juegos únicos
-* **Total de Títulos:** `67` en la colección
+* **PlayStation 2 (OPL):** `19` Juegos únicos
+* **Total de Títulos:** `69` en la colección
 
 ## 📁 Estructura del Repositorio
 

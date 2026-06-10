@@ -225,6 +225,11 @@
       <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLES_548.19_BACK.png</Back>
       <Disc>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLES_548.19_ICO.png</Disc>
    </Game>
+   <Game id="SLES_556.73" platform="PS2">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLES_556.73_COV.png</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLES_556.73_BACK.png</Back>
+      <Disc>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLES_556.73_ICO.png</Disc>
+   </Game>
    <Game id="SLUS_205.95" platform="PS2">
       <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLUS_205.95_COV.png</Front>
       <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLUS_205.95_BACK.png</Back>
@@ -279,6 +284,11 @@
       <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLUS_217.56_COV.png</Front>
       <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLUS_217.56_BACK.png</Back>
       <Disc>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLUS_217.56_ICO.png</Disc>
+   </Game>
+   <Game id="SLUS_219.78" platform="PS2">
+      <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLUS_219.78_COV.png</Front>
+      <Back>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLUS_219.78_BACK.png</Back>
+      <Disc>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SLUS_219.78_ICO.png</Disc>
    </Game>
    <Game id="SNES_020.02" platform="PS2">
       <Front>https://raw.githubusercontent.com/xcapitann/OPL-Unified-Assets/main/covers/OPL_PS2/SNES_020.02_COV.png</Front>
